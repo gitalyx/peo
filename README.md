@@ -6,5 +6,8 @@ An open source video editor written in rust
 
 # Installation
 ```sh
-   sj
+   git clone https://github.com/gitalyx/peo.git
+   cd peo
+   chmod +x install.sh
+   sudo ./install.sh
 ```
