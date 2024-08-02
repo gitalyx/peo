@@ -1,4 +1,4 @@
-# peo
+# Peo
 An open source video editor written in rust
 
 [![GitHub release](https://img.shields.io/badge/version-prealpha_1.0-blue)](#)
@@ -11,3 +11,6 @@ An open source video editor written in rust
    chmod +x install.sh
    sudo ./install.sh
 ```
+
+# Peo current looking and functionality
+![](https://github.com/gitalyx/peo/blob/main/vid.gif)
